@@ -9,7 +9,7 @@ Se conecta a la base de datos mongodb con mongoose.
 
 Se debe tener instalado node js, mongodb compass.
 
-**Base de datos:** Se debe crear una bd con nombre dbproveedores con una coleccion con nombre proveedores.  
+**Base de datos:** Crea una bd con nombre dbproveedores con una coleccion con nombre proveedores.  
 En la bd se veran los documentos de la app cuando se realicen operaciones de agregar editar o eliminar contactos.  
 De igual forma se podrán realizar operaciones desde la bd cuyo resultado se visualizara en la app.
 
